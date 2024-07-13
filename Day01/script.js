@@ -61,7 +61,7 @@ console.log( `Age after change: ${age}`);
 
 
 
-                            //ACTIVITY_4: Reassigning values
+                            //ACTIVITY_5: Reassigning values
 //Task6 : Try reassigning a variable declared with const and observe the error.
 
 const constantValue = 'This is a constant value';

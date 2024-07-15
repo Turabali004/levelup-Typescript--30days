@@ -7,7 +7,7 @@ const add = (a, b) => {
 console.log(add(2, 3)); // Output: 5
 
 
-// Task1: subtract two number
+// Task2: subtract two number
 
 const subtract = (a, b) => {
     return a - b;
@@ -15,7 +15,7 @@ const subtract = (a, b) => {
 console.log(subtract(2, 3)); // Output: 5
 
 
-// Task1: multiply two number
+// Task3: multiply two number
 
 const multiply = (a, b) => {
     return a * b;
@@ -23,7 +23,7 @@ const multiply = (a, b) => {
 console.log(multiply(2, 3)); // Output: 5
 
 
-// Task1: divide two number
+// Task4: divide two number
 
 const divide = (a, b) => {
     return a / b;
@@ -31,7 +31,7 @@ const divide = (a, b) => {
 console.log(divide(2, 3)); // Output: 5
 
 
-// Task1: find the remainder of two number is divided by another and log the result to the console.
+// Task5: find the remainder of two number is divided by another and log the result to the console.
 
 const remainder = (a, b) => {
     return a % b;
@@ -43,7 +43,7 @@ console.log(remainder(2, 3)); // Output: 5
 
 
 
-                    // Activity 2: Assignment Operators
+                                             // Activity 2: Assignment Operators
 // Task6: use the += operator to add a number to a variable
 
 let variable1 = 10;
@@ -56,6 +56,8 @@ console.log(variable1); // Output: 15
 let variable2 = 10;
 variable2 -= 5;
 console.log(variable2); // Output: 5
+
+
 
 
 
@@ -81,7 +83,7 @@ console.log(number1 == number2); // Output: false
 
 
 
-                                    // Activity 4: Logical Operators
+                                                // Activity 4: Logical Operators
 //Task 11: Write a program that uses the && operator to combine two conditions and log the result to the console.
 
 let condition1 = 11;

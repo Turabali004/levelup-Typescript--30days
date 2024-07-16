@@ -108,3 +108,15 @@ let numberCheck1 = -5;
 
 
 numberCheck1 > 0 ? console.log('Number is positive') : console.log('Number is negative')
+
+
+
+
+
+
+
+
+
+let typeNum1 = 5;
+let typeNum2 = '5';
+console.log(typeNum1 !== typeNum2); // false, because 5 is equal to '5' after type coercion
